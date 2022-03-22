@@ -1,0 +1,67 @@
+ERROR - 2022-03-17 17:21:14 --> Duplicate entry '181020161' for key 'PRIMARY'
+ERROR - 2022-03-17 17:21:16 --> Duplicate entry '181020161' for key 'PRIMARY'
+ERROR - 2022-03-17 17:21:26 --> Duplicate entry '181020161' for key 'PRIMARY'
+ERROR - 2022-03-17 17:34:30 --> Duplicate entry '181020169' for key 'PRIMARY'
+CRITICAL - 2022-03-17 21:15:39 --> Attempt to assign property "edad" on array
+#0 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(832): App\Controllers\API\Estudiantes->edit('181020163')
+#1 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Estudiantes))
+#2 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\alumnosRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\alumnosRest\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-17 21:15:41 --> Attempt to assign property "edad" on array
+#0 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(832): App\Controllers\API\Estudiantes->edit('181020163')
+#1 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Estudiantes))
+#2 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\alumnosRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\alumnosRest\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-17 21:15:42 --> Attempt to assign property "edad" on array
+#0 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(832): App\Controllers\API\Estudiantes->edit('181020163')
+#1 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Estudiantes))
+#2 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\alumnosRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\alumnosRest\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-17 21:16:48 --> Attempt to assign property "edad" on array
+#0 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(832): App\Controllers\API\Estudiantes->edit('181020163')
+#1 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Estudiantes))
+#2 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\alumnosRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\alumnosRest\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-17 21:17:02 --> Attempt to assign property "edad" on array
+#0 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(832): App\Controllers\API\Estudiantes->edit('181020163')
+#1 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Estudiantes))
+#2 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\alumnosRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\alumnosRest\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-17 21:17:03 --> Attempt to assign property "edad" on array
+#0 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(832): App\Controllers\API\Estudiantes->edit('181020163')
+#1 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Estudiantes))
+#2 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\alumnosRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\alumnosRest\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-17 21:17:57 --> Attempt to assign property "edad" on array
+#0 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(832): App\Controllers\API\Estudiantes->edit('181020163')
+#1 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Estudiantes))
+#2 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\alumnosRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\alumnosRest\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-17 21:17:59 --> Attempt to assign property "edad" on array
+#0 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(832): App\Controllers\API\Estudiantes->edit('181020163')
+#1 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Estudiantes))
+#2 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\alumnosRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\alumnosRest\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-17 21:18:00 --> Attempt to assign property "edad" on array
+#0 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(832): App\Controllers\API\Estudiantes->edit('181020163')
+#1 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Estudiantes))
+#2 C:\xampp\htdocs\alumnosRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\alumnosRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\alumnosRest\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
